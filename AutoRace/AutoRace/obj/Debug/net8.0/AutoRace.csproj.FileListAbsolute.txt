@@ -1,0 +1,14 @@
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\bin\Debug\net8.0\AutoRace.exe
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\bin\Debug\net8.0\AutoRace.deps.json
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\bin\Debug\net8.0\AutoRace.runtimeconfig.json
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\bin\Debug\net8.0\AutoRace.dll
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\bin\Debug\net8.0\AutoRace.pdb
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\AutoRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\AutoRace.AssemblyInfoInputs.cache
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\AutoRace.AssemblyInfo.cs
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\AutoRace.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\AutoRace.dll
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\refint\AutoRace.dll
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\AutoRace.pdb
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\AutoRace.genruntimeconfig.cache
+C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\obj\Debug\net8.0\ref\AutoRace.dll
