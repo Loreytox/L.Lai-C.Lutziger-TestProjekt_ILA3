@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Antonio Lai\\source\\repos\\AutoRace\\AutoRace\\AutoRace.csproj": {}
+    "C:\\Users\\cyril\\Downloads\\AutoRace\\AutoRace\\AutoRace\\AutoRace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Antonio Lai\\source\\repos\\AutoRace\\AutoRace\\AutoRace.csproj": {
+    "C:\\Users\\cyril\\Downloads\\AutoRace\\AutoRace\\AutoRace\\AutoRace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Antonio Lai\\source\\repos\\AutoRace\\AutoRace\\AutoRace.csproj",
+        "projectUniqueName": "C:\\Users\\cyril\\Downloads\\AutoRace\\AutoRace\\AutoRace\\AutoRace.csproj",
         "projectName": "AutoRace",
-        "projectPath": "C:\\Users\\Antonio Lai\\source\\repos\\AutoRace\\AutoRace\\AutoRace.csproj",
-        "packagesPath": "C:\\Users\\Antonio Lai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Antonio Lai\\source\\repos\\AutoRace\\AutoRace\\obj\\",
+        "projectPath": "C:\\Users\\cyril\\Downloads\\AutoRace\\AutoRace\\AutoRace\\AutoRace.csproj",
+        "packagesPath": "C:\\Users\\cyril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cyril\\Downloads\\AutoRace\\AutoRace\\AutoRace\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Antonio Lai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cyril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoRace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e724976f6441c2c8b871f37b7e2ba8e4ee757a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoRace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoRace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

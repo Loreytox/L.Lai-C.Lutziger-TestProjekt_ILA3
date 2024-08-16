@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AutoRace
-build_property.ProjectDir = C:\Users\Antonio Lai\source\repos\AutoRace\AutoRace\
+build_property.ProjectDir = C:\Users\cyril\Downloads\AutoRace\AutoRace\AutoRace\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
